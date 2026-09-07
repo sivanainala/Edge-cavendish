@@ -6,3 +6,4 @@ sudo su root
 ll
 cd myrepository
 vi file6.txt
+sudo su root
